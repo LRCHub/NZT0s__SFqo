@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "KO KO DA",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-04-01T11:51:46.845982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ko Ko Blue",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/01_Ko_Ko_Blue_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ko-Ko Joe",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/02_Ko-Ko_Joe_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ko-Ko Joe (Overdub)",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/03_Ko-Ko_Joe_(Overdub)_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ko Ko Mo (2009 Digital Remaster)",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/04_Ko_Ko_Mo_(2009_Digital_Remaster)_Perry_Como.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ko Ko Mo",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/05_Ko_Ko_Mo_Perry_Como.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ko Ko Mo - I Love You So (Remastered)",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/06_Ko_Ko_Mo_-_I_Love_You_So_(Remastered)_Perry_Como.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ko Ko Bop",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/07_Ko_Ko_Bop_EXO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ko Ko Bop (Chinese Ver.)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/08_Ko_Ko_Bop_(Chinese_Ver.)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ko Ko Blue",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/09_Ko_Ko_Blue_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shimmy, Shimmy, Ko-Ko-Bop",
+      "artist": "Little Anthony & The Imperials",
+      "has_synced": true,
+      "path": "select/10_Shimmy,_Shimmy,_Ko-Ko-Bop_Little_Anthony_&_The_Imperials.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shimmy, Shimmy, Ko‐Ko‐Bop",
+      "artist": "Little Anthony & the Imperials",
+      "has_synced": true,
+      "path": "select/11_Shimmy,_Shimmy,_Ko‐Ko‐Bop_Little_Anthony_&_the_Imperials.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ko Ko Bop (Korean Ver.) [Www.MusicBaran.Net]",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/12_Ko_Ko_Bop_(Korean_Ver.)_[Www.MusicBaran.Net]_EXO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ko Ko Mo",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/13_Ko_Ko_Mo_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ko Ko Mo (I Love You So)",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/14_Ko_Ko_Mo_(I_Love_You_So)_Perry_Como.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KO KO DA",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_KO_KO_DA_Jinmenusagi.txt"
+    }
+  ]
+}
